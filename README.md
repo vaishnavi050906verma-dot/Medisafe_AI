@@ -6,7 +6,7 @@ MediSafe AI is a web-based medicine safety assistant that helps users check medi
 ## 📸 Project Preview
 
 ![MediSafe AI Home Page](screenshots/home.png)
-![Medicine Checker](screenshots/medicine-checker.png
+![Medicine Checker](screenshots/medicine-checker.png)
 ![Drug Interaction Checker](screenshots/drug-interaction.png)
 
 ### 🚀 Features
