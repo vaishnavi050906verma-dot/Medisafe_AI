@@ -3,6 +3,9 @@
 ## Smart Medicine Safety Assistant
 
 MediSafe AI is a web-based medicine safety assistant that helps users check medicines, identify potential drug interactions, manage medicine reminders, and scan prescriptions.
+## 📸 Project Preview
+
+![MediSafe AI Home Page](screenshots/home.png)
 
 ### 🚀 Features
 
